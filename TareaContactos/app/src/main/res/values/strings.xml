@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="title_activity_confirmar">Confirmar Contacto</string>
+
+    <string name="form_nombre">Nombre completo</string>
+    <string name="form_telefono">Teléfono</string>
+    <string name="form_email">Email</string>
+    <string name="form_descripcion">Descripción contacto</string>
+    <string name="form_fecha">Fecha nacimiento</string>
+
+
+    <string name="btn_siguiente">Siguiente</string>
+</resources>
